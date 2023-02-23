@@ -26,9 +26,11 @@ npm i react-bootstrap
 <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
 ```
 
-- bootstrap spacing ms-auto to align the links to the right
+- 80% view port height to push footer to bottom
 
-- cdnjscdnjs.com for font awesome icons, copy link tag, add link to index.html head tag
+* bootstrap spacing ms-auto to align the links to the right
+
+* cdnjscdnjs.com for font awesome icons, copy link tag, add link to index.html head tag https://cdnjs.com/libraries/font-awesome
 
 ```javascript
 <i className='fas fa-shopping-cart '>
